@@ -70,7 +70,7 @@ extension Commands {
                             log("Connected to \(deviceType.rawValue) device")
                             coordinator.yield(rawValue: requestValue, interval: interval)
                             log("Request sent successfully")
-                            coordinator.finish()
+                            await coordinator.finishAndWait()
                             return
 
                         case .sendFailed(let error):
