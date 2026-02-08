@@ -50,7 +50,7 @@ ToroAlerts 將這個經典的 Linux 驅動程式帶到了目前的 macOS 平台�
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/digdog/ToroAlerts.git", from: "1.0.0")
+    .package(url: "https://github.com/digdog/ToroAlerts.git", from: "1.0.1")
 ]
 ```
 

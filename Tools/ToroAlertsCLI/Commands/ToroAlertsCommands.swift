@@ -9,5 +9,5 @@ import Foundation
 
 /// Namespace for all toroalertsctl commands
 public enum Commands {
-    static let version = "1.0.0"
+    static let version = "1.0.1"
 }
