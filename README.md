@@ -8,7 +8,7 @@ ToroAlerts 提供了一個 Swift 原生的解決方案，用於透過 IOKit 與 
 
 ### 關於 Hubcot
 
-Hubcot 是 Dreams come true co., Ltd. 的註冊商標，為 2000 年代初期在日本推出的吉祥物造型 USB Hub。其特色在於內建軟體控制的左右可動手臂，透過不同的揮動組合與時間差，能表達出開心、興奮、招手等各種生動的情緒動作。最受歡迎的兩款裝置為：
+[Hubcot](https://akiba-pc.watch.impress.co.jp/hotline/20010113/etc_toro.html) 是 Dreams come true co., Ltd. 的註冊商標，為 2000 年代初期在日本推出的吉祥物造型 USB Hub。其特色在於內建軟體控制的左右可動手臂，透過不同的揮動組合與時間差，能表達出開心、興奮、招手等各種生動的情緒動作。最受歡迎的兩款裝置為：
 
 - **Toro**: どこでもいっしょ的トロ造型 USB Hub
 - **Kitty**: Hello Kitty 造型的 USB Hub
@@ -390,3 +390,5 @@ GNU General Public License for more details.
 - [IOKit 文件](https://developer.apple.com/documentation/iokit)
 - [Swift Argument Parser](https://github.com/apple/swift-argument-parser)
 - [GNU General Public License](https://www.gnu.org/licenses/gpl-2.0.html)
+- [USB-HUBマスコット（トロ）](https://www.sanwa.co.jp/product/syohin?code=A-DTUH-01)
+- [Akiba PC Hotline (2001/1/13)): 動くマスコット付きUSB HUBが登場、第1弾は「トロ」](https://akiba-pc.watch.impress.co.jp/hotline/20010113/etc_toro.html)
